@@ -36,7 +36,7 @@ Once we have our initial map with earthquakes for the past 7 days overlay, we wa
 2. D3 library (Data-Driven Documents)
 3. Geo Json
 4. Leaflet library
-5. Mapobox API
+5. Mapbox API
 
 # URLs
 1. Earthquake GeoJSON data: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
