@@ -42,3 +42,9 @@ Once we have our initial map with earthquakes for the past 7 days overlay, we wa
 1. Earthquake GeoJSON data: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
 2. Major Earthquake GeoJSON data: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson
 3. Tectonic Lines GeoJSON data: https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json
+
+# Code
+- Earthquake_Challenge folder:
+  - style.css
+  - index.html
+  - challenge_logic.js
