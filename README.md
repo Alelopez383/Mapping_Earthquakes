@@ -16,6 +16,9 @@ Once we have our initial map with earthquakes for the past 7 days overlay, we wa
  
  ![image](https://user-images.githubusercontent.com/43974872/202545987-a13424de-4f17-49dc-8283-b774ae981c99.png)
 
+# Delivery 2: Adding a third Major Earthquake Map
+
+![image](https://user-images.githubusercontent.com/43974872/202552231-5da064ce-564a-43f2-95bb-83390d6c4711.png)
 
 
 # To create a map we need:
