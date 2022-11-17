@@ -20,6 +20,9 @@ Once we have our initial map with earthquakes for the past 7 days overlay, we wa
 
 ![image](https://user-images.githubusercontent.com/43974872/202552231-5da064ce-564a-43f2-95bb-83390d6c4711.png)
 
+# Delivery 3: Adding a third map style
+
+![image](https://user-images.githubusercontent.com/43974872/202553372-88d0a795-be2f-402d-be62-c740ef6c7a38.png)
 
 # To create a map we need:
 - The index.html file
@@ -34,3 +37,8 @@ Once we have our initial map with earthquakes for the past 7 days overlay, we wa
 3. Geo Json
 4. Leaflet library
 5. Mapobox API
+
+# URLs
+1. Earthquake GeoJSON data: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
+2. Major Earthquake GeoJSON data: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson
+3. Tectonic Lines GeoJSON data: https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json
